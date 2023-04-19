@@ -1,5 +1,5 @@
 name: Setup Python
-uses: actions/setup-python@v3.11
+uses: actions/setup-python@v3.10
   with:
       python-version: 3.11
       architecture: x64
